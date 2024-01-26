@@ -11,7 +11,7 @@ class MyContainer extends StatelessWidget {
           child: Column(
         mainAxisSize: MainAxisSize.min,
         children: [
-          const Text("ราเมง",
+          const Text("แกงส้ม",
               style: TextStyle(
                   fontSize: 24, color: Color.fromARGB(255, 64, 215, 58))),
           Image.asset('assets/images/church.jpg', width: 300),
